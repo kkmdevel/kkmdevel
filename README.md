@@ -9,9 +9,11 @@
 
 # Stacks
 
-![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-FF3300?style=flat&logo=Java&logoColor=white)
 ![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=kafka&logoColor=white)
+
 
 ![kkmdevel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkmdevel&show_icons=true&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkm0805)](https://solved.ac/kkm0805)
