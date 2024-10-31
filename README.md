@@ -11,6 +11,7 @@
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 ![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![kkmdevel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkmdevel&show_icons=true&theme=transparent)
 
 
 <br />
